@@ -1,0 +1,81 @@
+header{
+    text-align: center;
+    color: #FFCC70;
+    background-color: #FFFADD
+    
+}
+body{
+    background-color: hwb(49 90% 6%);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+a{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #FFCC70;
+
+}
+a:hover,button:hover{
+    color: red;
+}
+
+.footer1{
+    width: 10px;
+    float: right;
+}
+
+h2,p,button{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: #22668D;
+text-align: center;
+}
+button:active{
+    color: #FFCC70;
+    background-color: #22668D;
+}
+#fotoindex{
+    width: 150px;
+    vertical-align: top;
+    padding: 5px;
+    border-style: solid;
+    border-color: #22668D;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 45%;
+
+}
+#hoofdtabel{
+    font-family: fantasy;
+    color: #22668D;
+}
+.bijtabel{
+    color: #22668D;
+
+}
+table{
+    margin-left: 40px;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: #FFCC70;
+    margin-left: 37%;
+    background-color: white;
+}
+.formulier{
+    display: block;
+    margin: 10px 10px;
+    margin-left: 43%;
+    border-style: solid;
+    border-color: #FFCC70;
+    color: #22668D;
+}
+footer,header,body{
+    padding: 5px 5px;
+}
+
+
+
+
+
